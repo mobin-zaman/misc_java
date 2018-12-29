@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-class Main{
-    public static void main(String args[]){
+class Uva10038{
+    public static void Uva10038(String args[]){
         Scanner sc =  new Scanner(System.in);
         while(sc.hasNextInt()){
             int n=sc.nextInt();
